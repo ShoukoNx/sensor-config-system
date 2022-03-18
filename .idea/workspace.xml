@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sensor-config-system:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfd77c4c-2400-48ee-b456-0b43b480a9da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26CLCYBgzDrY42lmP2zkrInpO7h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sensor" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.13850415" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sensor.component.sensorConfig" />
+      <recent name="sensor.component.measureAnalysis" />
+      <recent name="sensor.component.importanceAnalysis" />
+      <recent name="sensor.component.accountSetting" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sensor.component.accountSetting" />
+      <recent name="sensor.component.sensorConfig" />
+      <recent name="sensor.component.measureAnalysis" />
+      <recent name="sensor.component.importanceAnalysis" />
+      <recent name="sensor.component" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CreateSensor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sensor.component.sensorConfig.CreateSensor" />
+      <module name="sensor-config-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sensor.component.sensorConfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteSensor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sensor.component.sensorConfig.DeleteSensor" />
+      <module name="sensor-config-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sensor.component.sensorConfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sensor.Main" />
+      <module name="sensor-config-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sensor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sensor.component.MainFrame" />
+      <module name="sensor-config-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sensor.component.accountSetting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sensor.Main" />
+      <module name="sensor-config-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sensor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateSensor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sensor.component.sensorConfig.UpdateSensor" />
+      <module name="sensor-config-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sensor.component.sensorConfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainFrame" />
+      <item itemvalue="Application.CreateSensor" />
+      <item itemvalue="Application.DeleteSensor" />
+      <item itemvalue="Application.UpdateSensor" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainFrame" />
+        <item itemvalue="Application.UpdateSensor" />
+        <item itemvalue="Application.DeleteSensor" />
+        <item itemvalue="Application.CreateSensor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd77c4c-2400-48ee-b456-0b43b480a9da" name="Default Changelist" comment="" />
+      <created>1646922494553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646922494553</updated>
+      <workItem from="1646922497315" duration="4362000" />
+      <workItem from="1647236315914" duration="7458000" />
+      <workItem from="1647244573077" duration="400000" />
+      <workItem from="1647245187002" duration="4509000" />
+      <workItem from="1647317213465" duration="12171000" />
+      <workItem from="1647409037535" duration="8783000" />
+      <workItem from="1647494815333" duration="8076000" />
+      <workItem from="1647503465994" duration="287000" />
+      <workItem from="1647509138284" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647245285210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="443" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647245285210" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1647319077803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1647319077803" />
+    <state x="690" y="300" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1647318033139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="300" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647318033139" />
+    <state x="690" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1647247659609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647247659609" />
+    <state x="739" y="404" width="485" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1647318033987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="404" width="485" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1647318033987" />
+    <state x="229" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1647499944057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="229" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647499944057" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647326592338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647326592338" />
+    <state x="634" y="260" key="FileChooserDialogImpl" timestamp="1647247735848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1647247735848" />
+    <state width="1877" height="181" key="GridCell.Tab.0.bottom" timestamp="1647502949466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647502949466" />
+    <state width="1877" height="181" key="GridCell.Tab.0.center" timestamp="1647502949466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647502949466" />
+    <state width="1877" height="181" key="GridCell.Tab.0.left" timestamp="1647502949466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647502949466" />
+    <state width="1877" height="181" key="GridCell.Tab.0.right" timestamp="1647502949466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647502949466" />
+    <state width="1642" height="351" key="GridCell.Tab.1.bottom" timestamp="1647244391108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1642" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647244391108" />
+    <state width="1642" height="351" key="GridCell.Tab.1.center" timestamp="1647244391108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1642" height="351" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647244391108" />
+    <state width="1642" height="351" key="GridCell.Tab.1.left" timestamp="1647244391108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1642" height="351" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647244391108" />
+    <state width="1642" height="351" key="GridCell.Tab.1.right" timestamp="1647244391108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1642" height="351" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647244391108" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1647247819651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1647247819651" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1647409046818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647409046818" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1647499829083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1647499829083" />
+  </component>
+</project>
